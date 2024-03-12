@@ -1,7 +1,11 @@
 # simple-one-page-architecture-website
 An example of a company processes a website
 
-<img src='screenshot/web.jpeg'>
+<div style='display: flex'>
+<img src='screenshot/pc.jpeg' width='50%'>
+<img src='screenshot/mobile.jpeg' width='14%'>
+<img src='screenshot/tablet.jpeg' width='25%'>
+</div>
 
 ## Installation
 Öncellikle projeyi clonelayın.
